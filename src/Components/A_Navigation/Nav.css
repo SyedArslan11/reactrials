@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(8,25,32);
+   text-align: center;
+    padding: 15px;
+    
+    
+    
+    
+}
+nav a{
+
+    margin: 20px ; 
+    color: rgb(255,70,84);
+    text-decoration: none;
+}
+
+.input{
+    float: right;
+    ;
+}
+.btn{
+    float: ;
+}
