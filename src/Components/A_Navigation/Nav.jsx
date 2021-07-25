@@ -2,7 +2,7 @@ import "./Nav.css"
 import { Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-export const Nav = () => {
+export const N) => {
   return (
     <div>
       <nav>
@@ -20,3 +20,4 @@ export const Nav = () => {
     </div>
   );
 };
+
