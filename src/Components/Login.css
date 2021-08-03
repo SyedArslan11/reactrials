@@ -1,0 +1,26 @@
+.firstCard{
+    background-color:rgb(69, 74, 75)  !important;
+    padding: 50px;
+    margin: auto;
+    width:400px;
+    margin-top: 20px;
+    height: 400px;
+    box-shadow: yellow 0 0 20px;
+    text-align: center;
+}
+::placeholder{
+    color: crimson !important;
+    opacity: 1;
+}
+.buttons{
+    background-color: teal;
+    color: black;
+    width: 100px;
+}
+.form-control{
+    background-color: black !important;
+    color: teal !important;
+}
+.label{
+    color: white;
+}

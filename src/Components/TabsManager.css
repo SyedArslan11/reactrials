@@ -1,0 +1,15 @@
+.nav-tabs .nav-link {
+    margin-bottom: -1px;
+    background: 0 0;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: red;
+}
+.nav-tabs:hover .nav-link:hover{
+color: seagreen;
+background-color: black;
+}
+.nav-tabs{
+    background-color: black;
+}
