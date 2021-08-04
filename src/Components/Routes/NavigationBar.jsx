@@ -11,10 +11,11 @@ export const NavigationBar = () => {
             <Navbar.Brand href="/">PDAC</Navbar.Brand>
           </NavLink>
           <Nav className="me-auto">
+            <NavLink to="/EmployeeList">Search</NavLink>
             <NavLink to="/ContactUs">Contact Us</NavLink>
             <NavLink to="/Course">Course</NavLink>
             <NavLink to="/Services">Services</NavLink>
-            <NavLink to="/AboutUs">About Us</NavLink>
+            <NavLink to="/Login">Login</NavLink>
           </Nav>
         </Container>
       </Navbar>

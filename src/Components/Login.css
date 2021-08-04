@@ -12,10 +12,9 @@
     color: crimson !important;
     opacity: 1;
 }
-.buttons{
-    background-color: teal;
+.btn-primary {
+    background-color: teal !important;
     color: black;
-    width: 100px;
 }
 .form-control{
     background-color: black !important;

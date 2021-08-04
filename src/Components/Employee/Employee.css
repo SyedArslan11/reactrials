@@ -1,0 +1,25 @@
+.employeelist{
+    background-color: cyan;
+    margin: 10px;
+    padding: 10px;
+    color: darkred;
+    box-shadow:0 0 10px darkred;
+}
+.employeelist:hover{
+    background-color: darkred;
+    color:cyan;
+    box-shadow:0 0 10px rgb(0, 255, 85);
+}
+.employeeItem{
+    background-color: black;
+    color: blanchedalmond;
+    
+    margin: 10px;
+    padding: 10px;
+    box-shadow:0 0 10px crimson;
+}
+.employeeItem:hover{
+    background-color: blanchedalmond;
+    color: black;
+    box-shadow: 0 0 10px black;
+}
